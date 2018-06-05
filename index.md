@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## gyt
 
 You can use the [editor on GitHub](https://github.com/gyt1047113871/gytblog.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
